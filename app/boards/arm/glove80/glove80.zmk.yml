@@ -14,3 +14,5 @@ outputs:
 siblings:
   - glove80_lh
   - glove80_rh
+  - glove80_lh_dongle
+  - glove80_dongle
